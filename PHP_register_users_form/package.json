@@ -1,0 +1,19 @@
+{
+  "name": "php_register_users_form",
+  "version": "1.0.0",
+  "description": "Formulario en php-8 para registrar usuarios en una db mysql con POO y PDO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alan-FR/PHP_formulario_registro.git"
+  },
+  "author": "Alan-FR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alan-FR/PHP_formulario_registro/issues"
+  },
+  "homepage": "https://github.com/Alan-FR/PHP_formulario_registro#readme"
+}
